@@ -1,0 +1,7 @@
+{
+  "name": "Chronicle: Infinite Choose-Your-Own-Adventure Engine",
+  "description": "An infinite AI-powered interactive choose-your-own-adventure engine with dynamic quests, persistent inventory tracking, multi-turn AI companions, consistent visual generation, and emergent plot branches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
